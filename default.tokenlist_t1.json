@@ -1,0 +1,23 @@
+{
+  "name": "extra list",
+  "logoURI": "https://ipfs.io/ipfs/QmaypvtnoXGQo4gSGHjgXaMUY98hf2FotQRfXgdLL4jo4i",
+  "keywords": [
+    "defi"
+  ],
+  "timestamp": "2021-02-10T16:00:00.809+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xE9Bdf131BdB18510b3a4771eDbA01FEE586e4e33",
+      "name": "dat_test_coin",
+      "symbol": "datt",
+      "decimals": 100,
+      "logoURI": "https://assets.coingecko.com/coins/images/9956/thumb/dai-multi-collateral-mcd.png?1574218774"
+    }
+  ],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}
